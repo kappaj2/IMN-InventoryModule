@@ -94,7 +94,7 @@ spring:
 #        key-alias: inventorymodule
 # ===================================================================
 server:
-    port: 8084
+    port: 8094
 
 # ===================================================================
 # JHipster specific properties
@@ -131,7 +131,7 @@ jhipster:
                 token-validity-in-seconds-for-remember-me: 2592000
     mail: # specific JHipster mail property, for standard properties see MailProperties
         from: inventorymodule@localhost
-        base-url: http://127.0.0.1:8084
+        base-url: http://127.0.0.1:8094
     metrics: # DropWizard Metrics configuration, used by MetricsConfiguration
         jmx:
             enabled: true

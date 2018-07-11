@@ -9,7 +9,7 @@
     "baseName": "inventorymodule",
     "packageName": "za.co.tman.inventory",
     "packageFolder": "za/co/tman/inventory",
-    "serverPort": "8084",
+    "serverPort": "8094",
     "authenticationType": "jwt",
     "cacheProvider": "hazelcast",
     "enableHibernateCache": true,
